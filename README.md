@@ -21,4 +21,4 @@ API:
 
 /wishes/:id/:userId DELETE wish from appropriate table with user ID.
 
-/shuffle POST method to shuffle players - everyone gets his santa.
+/shuffle POST method to shuffle players - everyone gets his santa. Shuffeling will be available after 3rd person will register/
