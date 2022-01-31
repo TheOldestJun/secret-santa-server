@@ -4,6 +4,8 @@ DOCUMENTATION
 PLEASE READ THIS FIRST!
 In order to work we have to delete this file /db/santa.db to leave this directory clean. I couldn't make gitignore to ignore the file, its deleting the whole dir. Because of that had to make new repo, with no commits((.
 
+To run the application use: npm run start.
+
 API:
 / - root router to check server is runnnig in visual HTML
 
