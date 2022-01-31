@@ -4,7 +4,8 @@
   "description": "server for secret santa",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "Stanislav Pukha <s.v.pukha@gmail.com>",
   "license": "ISC",
